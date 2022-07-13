@@ -1,15 +1,20 @@
 # PLM-ICD: Automatic ICD Coding with Pretrained Language Models
-[Paper](https://arxiv.org/abs/2207.05289)
+[Paper](https://aclanthology.org/2022.clinicalnlp-1.2/)
 
 Source code for our ClinicalNLP 2022 paper *PLM-ICD: Automatic ICD Coding with Pretrained Language Models*
 
-    @misc{huang-2022-plmicd,
-        doi = {10.48550/ARXIV.2207.05289},
-        url = {https://arxiv.org/abs/2207.05289},  
-        author = {Huang, Chao-Wei and Tsai, Shang-Chi and Chen, Yun-Nung},
-        title = {PLM-ICD: Automatic ICD Coding with Pretrained Language Models},
-        publisher = {arXiv},
-        year = {2022},
+    @inproceedings{huang-etal-2022-plm,
+        title = "{PLM}-{ICD}: Automatic {ICD} Coding with Pretrained Language Models",
+        author = "Huang, Chao-Wei  and
+        Tsai, Shang-Chi  and
+        Chen, Yun-Nung",
+        booktitle = "Proceedings of the 4th Clinical Natural Language Processing Workshop",
+        month = jul,
+        year = "2022",
+        address = "Seattle, WA",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2022.clinicalnlp-1.2",
+        pages = "10--20",
     }
 
 
