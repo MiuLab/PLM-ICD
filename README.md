@@ -5,9 +5,7 @@ Source code for our ClinicalNLP 2022 paper *PLM-ICD: Automatic ICD Coding with P
 
     @inproceedings{huang-etal-2022-plm,
         title = "{PLM}-{ICD}: Automatic {ICD} Coding with Pretrained Language Models",
-        author = "Huang, Chao-Wei  and
-        Tsai, Shang-Chi  and
-        Chen, Yun-Nung",
+        author = "Huang, Chao-Wei and Tsai, Shang-Chi and Chen, Yun-Nung",
         booktitle = "Proceedings of the 4th Clinical Natural Language Processing Workshop",
         month = jul,
         year = "2022",
