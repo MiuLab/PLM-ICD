@@ -31,6 +31,11 @@ Please download the pretrained LMs you want to use from the following link:
 - [BioBERT](https://github.com/dmis-lab/biobert)
 - [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract): you can also set `--model_name_or_path microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract` when training the model, the script will download the checkpoint automatically.
 
+### Trained Models
+You can also download our [trained models](https://drive.google.com/drive/folders/1oJLgLKu_NZxsSTXU9uFVehxXXJYzTalO?usp=sharing) to skip the training part. We provide 3 trained models:
+- [Trained on MIMIC-3 full](https://drive.google.com/drive/folders/1SXlyh4ydRqlLwed_tiBA2mNCDjVll6gD?usp=sharing)
+- [Trained on MIMIC-3 50](https://drive.google.com/drive/folders/12xRNiaXbwmrAcqzkUo96EpopBuICnWqR?usp=sharing)
+- [Trained on MIMIC-2](https://drive.google.com/drive/folders/1tmopSwLccrBpHCoalAz-oRKAlxBvyF0H?usp=sharing)
 
 ### Training
 1. `cd src`
