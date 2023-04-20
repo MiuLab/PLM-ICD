@@ -19,6 +19,7 @@ Source code for our ClinicalNLP 2022 paper *PLM-ICD: Automatic ICD Coding with P
 ## Requirements
 * Python >= 3.6
 * Install the required Python packages with `pip3 install -r requirements.txt`
+* If the specific versions could not be found in your distribution, you could simple remove the version constraint. Our code should work with most versions.
 
 ## Dataset
 Unfortunately, we are not allowed to redistribute the MIMIC dataset.
